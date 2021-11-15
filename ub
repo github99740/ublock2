@@ -1,0 +1,679 @@
+! 2021-04-15 https://www.duolingo.com
+www.duolingo.com##._3Gj5_._1_p4S
+www.duolingo.com##._3tP0w.t5wFJ.UCrz7._2fOC9._1nlVc._2kfEr._20MSV
+www.duolingo.com##._3ZuGY.Yth9H
+www.duolingo.com##div._3Gj5_:nth-of-type(5)
+
+
+! 2021-04-15 https://www.tubeoffline.com
+www.tubeoffline.com##div.otherSites.borderCurve.divContent2:nth-of-type(4)
+
+! 2021-04-15 https://www.duolingo.com
+www.duolingo.com##div._3Gj5_:nth-of-type(4)
+www.duolingo.com##._3yAjN._2RTMn._2__FI.Vw7Qd
+www.duolingo.com##div._3jIW4._3E4oM:nth-of-type(13)
+www.duolingo.com##._3B3OD._1figt._3Ev3S._3yAjN._25Cnc._3dtSu.t5wFJ._2fOC9._1nlVc._2gwtT._2A7uO._3iVqs.J51YJ
+
+! 2021-04-16 https://www.embibe.com
+www.embibe.com##iframe.xdk-iframe:nth-of-type(3)
+
+! 2021-04-16 https://www.youtube.com
+www.youtube.com##ytd-guide-signin-promo-renderer.ytd-guide-renderer.style-scope
+www.youtube.com###guide-links-primary
+www.youtube.com###simple-box > .ytd-comments-header-renderer.style-scope
+
+! 2021-04-18 https://www.amazon.in
+www.amazon.in##.sbx-desktop._multi-card-creative-desktop_Container_container__GMk6b
+www.amazon.in##.nav-progressive-attribute.a-declarative.a-popover-trigger.nav-a-2.nav-a
+www.amazon.in###nav-swmslot
+www.amazon.in##div.s-widget.s-flex-full-width.s-result-item.a-spacing-none.a-section:nth-of-type(1)
+www.amazon.in###nav-link-prime
+www.amazon.in##a.nav-a:nth-of-type(14)
+
+
+! 2021-04-19 https://www.flipkart.com
+www.flipkart.com##.dwRsDN._3Il5oO
+www.flipkart.com##._331-kn
+
+! 2021-04-27 https://www.flipkart.com
+www.flipkart.com##.CgGDXG._3E8aIl
+www.flipkart.com##._2errNR.go_DOp > ._28p97w
+www.flipkart.com##._1WmthZ
+www.flipkart.com##div.col-12-12._1AtVbE:nth-of-type(7)
+www.flipkart.com##.col-8-12._3Mn1Gg._1YokD2 > ._3Mn1Gg._1YokD2 > ._2GoDe3._1YokD2
+www.flipkart.com##.WT_FyS
+www.flipkart.com##.rd9nIL
+www.flipkart.com##._1q9yVr._2KpZ6l
+
+
+youtube.com###icon
+youtube.com###play
+youtube.com###hover-overlays > ytd-thumbnail-overlay-toggle-button-renderer.style-scope.ytd-thumbnail:last-child
+youtube.com###hover-overlays > ytd-thumbnail-overlay-toggle-button-renderer.style-scope.ytd-thumbnail:first-child
+youtube.com###hover-overlays > ytd-thumbnail-overlay-toggle-button-renderer.style-scope.ytd-thumbnail:nth-child(2)
+
+! 2021-04-28 https://www.google.com
+www.google.com##.gb_Te
+
+! 2021-04-29 https://www.youtube.com
+www.youtube.com##.size-default.style-suggestive.ytd-video-owner-renderer.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-suggestive.ytd-button-renderer.style-scope
+
+! 2021-04-30 https://www.amazon.in
+www.amazon.in###tell-a-friend > div
+||images-eu.ssl-images-amazon.com/images/G/31/img16/vineet/EMI_FEST_ALL/BOBYes_ILM_640x45._CB655716848_.jpg$image
+
+! 2021-05-02 https://www.youtube.com
+www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
+
+
+! 2021-05-05 https://neetugdiscussion.quora.com
+neetugdiscussion.quora.com##.idETaN.Banner___StyledFlex-sf9g3d-0.qu-p--medium.qu-overflow--hidden.qu-alignItems--center.qu-justifyContent--space-between.qu-borderRadius--small.qu-color--gray.qu-bg--gray_ultralight.q-flex
+neetugdiscussion.quora.com##.qu-hover--textDecoration--none.qu-cursor--pointer.qu-textAlign--center.qu-tapHighlight--white.qu-bg--red.qu-display--inline-flex.qu-userSelect--none.qu-whiteSpace--nowrap.qu-justifyContent--center.qu-alignItems--center.qu-borderRadius--pill.qu-ml--medium.jkZGEm.base___StyledClickWrapper-lx6eke-1.bARCkM.ClickWrapper___StyledClickWrapperBox-zoqi4f-0.qu-focus--textDecoration--none.qu-active--textDecoration--none.q-click-wrapper
+
+
+! 2021-05-05 https://www.embibe.com
+www.embibe.com##.widget-bottom-spacing.rank-up-wrapper
+
+! 2021-05-05 https://neetugdiscussion.quora.com
+neetugdiscussion.quora.com##.qu-pr--medium.qu-justifyContent--flex-end.qu-alignItems--center.q-flex > .qu-alignItems--center.q-flex
+neetugdiscussion.quora.com##.kQEUQg.CssComponent-sc-1oskqb9-0.qu-boxShadow--medium.qu-borderBottom.qu-borderTop.qu-zIndex--search_overlay.qu-bg--white.q-fixed
+
+! 2021-05-10 https://selfstudyforneet.quora.com
+selfstudyforneet.quora.com##.kQEUQg.CssComponent-sc-1oskqb9-0.qu-boxShadow--medium.qu-borderBottom.qu-borderTop.qu-zIndex--search_overlay.qu-bg--white.q-fixed
+selfstudyforneet.quora.com##.qu-borderColor--raised.qu-boxShadow--medium.qu-borderBottom.qu-bg--raised.qu-zIndex--header.qu-fullX.q-fixed
+
+! 2021-05-10 https://www.youtube.com
+www.youtube.com##.size-default.style-text.ytd-comment-action-buttons-renderer.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-text.ytd-button-renderer.style-scope
+www.youtube.com###dislike-button > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-text.ytd-toggle-button-renderer.style-scope
+youtube.com###movie_player > div.ytp-chrome-bottom:last-child > div.ytp-chrome-controls:last-child > div.ytp-right-controls:last-child > button.ytp-button:first-child > div.ytp-autonav-toggle-button-container
+youtube.com###movie_player > div.ytp-chrome-bottom:last-child > div.ytp-chrome-controls:last-child > div.ytp-right-controls:last-child > button.ytp-button:first-child
+youtube.com###movie_player > div.ytp-chrome-bottom:last-child > div.ytp-chrome-controls:last-child > div.ytp-left-controls:first-child > a.ytp-next-button.ytp-button:nth-child(3)
+
+! 2021-05-11 https://neetugdiscussion.quora.com
+neetugdiscussion.quora.com##.qu-borderColor--raised.qu-boxShadow--medium.qu-borderBottom.qu-bg--raised.qu-zIndex--header.qu-fullX.q-fixed
+
+! 2021-05-16 https://www.onlinetestseries.in
+www.onlinetestseries.in##.download > [href="/allenkota/testmyprep"]
+www.onlinetestseries.in##.for-home-session
+www.onlinetestseries.in##a[href="/allenkota/digital-classes"] > span
+||s3-ap-southeast-1.amazonaws.com/test-content-images/assets/images/new_sprite_image.png$image
+www.onlinetestseries.in###new-cart-icon-container
+www.onlinetestseries.in##.d-flex.controls > .edu-store-li.for-desktop.dashboard > [href="/allenkota/education-product-store"]
+||d1edael44jt516.cloudfront.net/images/callBackIcon.png$image
+www.onlinetestseries.in##.imageDiv
+||d1edael44jt516.cloudfront.net/images/chat_feedback_icon.png$image
+
+! 2021-05-22 https://neetugdiscussion.quora.com
+neetugdiscussion.quora.com##.qu-hover--textDecoration--none.qu-cursor--pointer.qu-textAlign--center.qu-tapHighlight--white.qu-bg--tribe_theme_pink.qu-display--inline-flex.qu-userSelect--none.qu-whiteSpace--nowrap.qu-justifyContent--center.qu-alignItems--center.qu-borderRadius--pill.qu-boxShadow--medium_25.hUtkTa.base___StyledClickWrapper-lx6eke-1.bARCkM.ClickWrapper___StyledClickWrapperBox-zoqi4f-0.qu-focus--textDecoration--none.qu-active--textDecoration--none.q-click-wrapper
+
+! 2021-06-01 https://www.google.com
+www.google.com##.gb_3c.gb_9d.gb_4.gb_3
+www.google.com##.gb_C
+
+! 2021-06-20 https://unacademy.com
+unacademy.com##.kVYXuu.NudgeCard__Container-kd31pb-0
+unacademy.com##button.bnEknS.ClassHeader__StyledButton-sc-1eq20vz-10.bhYmls.Button__StyledButton-dg3jck-0:nth-of-type(3)
+unacademy.com##.bnEknS.ClassHeader__StyledButton-sc-1eq20vz-10.bhYmls.Button__StyledButton-dg3jck-0
+unacademy.com##.czICUc.H7-sc-17eyqzc-0
+unacademy.com##.lpjVrS.HeaderUser__LearnedMinutes-zjqo1z-1
+unacademy.com##.Zwglo.layout__TTUToolTip-yt2anf-5
+unacademy.com##.jXIcNQ.SubHeader__SmallHeaderWrapper-sc-1ibce95-0
+unacademy.com##.dajQNM.layout__TTUWidget-yt2anf-4
+
+! 2021-06-20 https://www.wikihow.com
+www.wikihow.com###nav_pro_li
+www.wikihow.com###article_courses_banner
+
+
+! 2021-06-27 https://www.youtube.com
+www.youtube.com###dismissible > .ytd-statement-banner-renderer.style-scope
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(3)
+
+! 2021-06-27 https://docs.google.com
+docs.google.com##.docs-titlebar-buttons
+
+! 2021-06-29 https://www.embibe.com
+www.embibe.com##.u-margin-bottom-0.statistics
+www.embibe.com##.footer-div
+
+
+
+! 2021-07-01 https://www.quora.com
+www.quora.com##.q-box > .q-box > div > div > div > div > .qu-borderBottom.qu-pb--medium.q-box > .qu-pt--medium.q-box > .q-box > div > .qu-zIndex--action_bar.q-box > .qu-py--tiny.qu-flexWrap--nowrap.qu-alignItems--center.qu-justifyContent--space-between.q-flex > div.qu-alignItems--center.q-flex > .kBNxNb.PopoverMenu___StyledInlineFlex-sc-11ubalt-0.qu-alignItems--flex-end.q-inlineFlex > div > .q-relative > .qu-hover--textDecoration--none.qu-hover--bg--darken.qu-cursor--pointer.qu-textAlign--center.qu-tapHighlight--white.qu-display--inline-flex.qu-userSelect--none.qu-whiteSpace--nowrap.qu-justifyContent--center.qu-alignItems--center.qu-borderRadius--pill.qu-active--textDecoration--none.qu-active--bg--darken.laIUvT.base___StyledClickWrapper-lx6eke-1.bARCkM.ClickWrapper___StyledClickWrapperBox-zoqi4f-0.q-click-wrapper
+
+! 2021-07-10 https://www.youtube.com
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(2)
+
+! 2021-07-11 https://fi.hideproxy.me
+fi.hideproxy.me##.hidemeproxy__slideout
+
+! 2021-07-11 https://adultproxy.men
+||adultproxy.men/ad_in_desktop.jpg$image
+
+! 2021-07-11 https://www.google.com
+www.google.com##.XDyW0e
+
+! 2021-07-12 https://www.google.com
+www.google.com##.g-blk.mnr-c.g > .xKf9F.KFFQ0c
+
+! 2021-07-12 https://www.news18.com
+www.news18.com##.vwall.news18-special.vspacer20.jsx-2115210425
+
+! 2021-07-12 https://drive.google.com
+drive.google.com##.gb_3c.gb_9d.gb_4.gb_3
+
+! 2021-07-13 https://unacademy.com
+unacademy.com##.iNVxCO.NudgeCard__Container-kd31pb-0
+
+! 2021-07-13 https://unsplash.com
+unsplash.com##._1uo9w.Vffy3
+unsplash.com##._2ikFd._2WvKc.K8oc9
+unsplash.com##._1EzYi
+unsplash.com##._23jQm._1ByhS.n1PQM.hhSId._19rc8._2XmEH._2aM5L._1CBrG._3d86A._3jtP1._1nvjo.BUaxM
+unsplash.com##.ugkIk._2WvKc.K8oc9
+
+! 2021-07-13 https://physicswallah.live
+physicswallah.live##.hydrated.ion-focusable.ion-activatable.button-outline.button-round.button-small.button.md.ion-color-primary.ion-color.br-cstm.refer
+
+youtube.com###primary > ytd-rich-grid-renderer.style-scope.ytd-two-column-browse-results-renderer
+
+! 2021-07-13 https://www.youtube.com
+www.youtube.com##.ytp-button.ytp-mute-button
+
+! 2021-07-13 https://unsplash.com
+unsplash.com##._31NE9
+unsplash.com##div._2iWc-._27vvN:nth-of-type(1)
+unsplash.com##div._2iWc-._27vvN:nth-of-type(2)
+unsplash.com##._3wQNE._1CBrG._3l__V._3pc0C._4kjHg._1ByhS.vTCGl
+unsplash.com##._1PdBr._2YoKj > div > .WMwuA > div > ._1fj_9 > ._31NE9
+unsplash.com##._3wQNE._1CBrG._3l__V._3pc0C._4kjHg._1ByhS.vTCGl
+
+! 2021-07-14 https://unsplash.com
+unsplash.com##.TX8dK._23gUT
+unsplash.com##._3p9GO._3FWCU._2obdA
+
+
+unsplash.com###app > div > div._3UDio._2sCnE.PrOBO._1CR66:nth-child(5) > div:first-child > div > div.qztBA > div._1ZjfQ:last-child > div._2hL4R:nth-child(2) > div._2obdA.WcYKB._30ce3
+
+
+
+google.com###kp-wp-tab-overview > div.TzHB6b.cLjAic:nth-child(253) > div.sATSHe
+
+! 2021-07-16 https://www.youtube.com
+www.youtube.com###button > .ytd-menu-renderer.style-scope
+
+! 2021-07-16 https://www.embibe.com
+www.embibe.com##.find-cool
+
+! 2021-07-16 https://www.onlinetestseries.in
+www.onlinetestseries.in##.footer-content
+www.onlinetestseries.in##.footer-menu
+
+! 2021-07-17 https://www.youtube.com                   REMOVES VIDEOS FROM SEARCHES AND SIDEBAR WITH THESE WORDS
+www.youtube.com###dismissible:has-text(/Samay Raina|Tanmay Bhat|Tania Sachdev|Suhani Shah|Vidit Gujrathi|ChessBase India|SAMAY ke fans|Anish Giri|Chess.com|agadmator|SET India|Dhruv Rathee|Disney India|Sony SAB|Cricket|The Viral Fever|World Cup|RSY Records|Netflix India|Slayy Point|ashish chanchlani|Namo Kaul|Gangwar Institute|Tina mam|Aman Malik|Physics Wallah vs Unacademy|TINA MAM|tina_mam|Tina Ma'am|scammer|Scammer|Scambaiter|Karl Rock/)
+www.youtube.com###dismissible:has-text(/Nobita|Doraemon|nobita|doraemon|UdaY PateL|Kurzgesagt – In a Nutshell|The MBBS NiBa|Dr.Arpit Bankhede - Educational Buddy|TwoSetViolin/)
+
+google.*##.g:has(a[href*="fandom."])
+google.*##a[href*="fandom."]:upward(1)
+google.*##.g:has(a[href*="westeros."])
+google.*##a[href*="westeros."]:upward(1)
+
+! 2021-07-17 https://www.quora.com
+www.quora.com##.qu-hover--textDecoration--none.qu-cursor--pointer.qu-textAlign--center.qu-tapHighlight--white.qu-bg--blue.qu-display--inline-flex.qu-userSelect--none.qu-whiteSpace--nowrap.qu-justifyContent--center.qu-alignItems--center.qu-borderRadius--pill.qu-boxShadow--medium_25.kjJTYv.base___StyledClickWrapper-lx6eke-1.bARCkM.ClickWrapper___StyledClickWrapperBox-zoqi4f-0.qu-focus--textDecoration--none.qu-active--textDecoration--none.q-click-wrapper
+
+
+www.quora.com##.q-box > div > div > div > .qu-borderBottom.qu-pb--medium.q-box > .qu-pt--medium.q-box > .q-box > div > .qu-zIndex--action_bar.q-box > .qu-py--tiny.qu-flexWrap--nowrap.qu-alignItems--center.qu-justifyContent--space-between.q-flex > div.qu-alignItems--center.q-flex > .kBNxNb.PopoverMenu___StyledInlineFlex-sc-11ubalt-0.qu-alignItems--flex-end.q-inlineFlex > div > .q-relative > .qu-hover--textDecoration--none.qu-hover--bg--darken.qu-cursor--pointer.qu-textAlign--center.qu-tapHighlight--white.qu-display--inline-flex.qu-userSelect--none.qu-whiteSpace--nowrap.qu-justifyContent--center.qu-alignItems--center.qu-borderRadius--pill.qu-active--textDecoration--none.qu-active--bg--darken.laIUvT.base___StyledClickWrapper-lx6eke-1.bARCkM.ClickWrapper___StyledClickWrapperBox-zoqi4f-0.q-click-wrapper
+
+! 2021-07-21 https://clockify.me
+clockify.me##.cl-dropdown-large.cl-dropdown > .cl-component-divided-left.cl-d-flex.cl-no-arrow.cl-dropdown-toggle
+
+! 2021-07-22 https://track.toggl.com
+track.toggl.com##.e1eapc7w0.css-1ensezv-Wrapper
+
+! 2021-07-22 https://collegedunia.com
+collegedunia.com##.card.p-4.my-4.bg-white.nps-banner.jsx-2085888330
+collegedunia.com##.mb-4.card.jsx-2509753600.jsx-427124042
+
+! 2021-07-25 https://www.youtube.com
+www.youtube.com##.ytp-button.ytp-size-button
+www.youtube.com##.ytp-button.ytp-miniplayer-button
+www.youtube.com##.ytp-watch-later-icon
+
+
+google.com###kp-wp-tab-overview > div.TzHB6b.cLjAic:nth-child(251) > div.sATSHe
+
+! 2021-07-26 https://physicswallah.live
+physicswallah.live##.hydrated.ion-focusable.ion-activatable.button-outline.button-round.button-small.button.md.dashboard-fff.br-cstm.refer
+physicswallah.live##ion-item.hydrated.ion-focusable.item-lines-none.md.item.item-label.menu-item-desktop:nth-of-type(5)
+physicswallah.live##.batches-section > ion-row.hydrated.md > ion-col.hydrated.md:has-text(/Lakshya|Sankalp|Neev|WARRIOR|2022|Manzil/)
+
+! 2021-07-26 https://www.embibe.com
+www.embibe.com##.embibe-search__inputwrapper.hgxGZa.sc-enrZtP
+www.embibe.com##.embibe-main-header__searchbar-and-embium
+
+! 2021-07-27 https://physicswallah.live
+physicswallah.live##.hydrated.md > .hydrated.md > ion-col.hydrated.md > .hydrated.md.sc-ion-card-md-s.sc-ion-card-md-h.fadeInUp.animated.test_card > .hydrated.card-content-md.md:has-text(/2022|JEE/)
+
+
+
+google.*##.g:has(a[href*="twitter."])
+google.*##a[href*="twitter."]:upward(1)
+google.*##.g:has(a[href*="facebook."])
+google.*##a[href*="facebook."]:upward(1)
+
+
+
+! 2021-07-28 https://www.google.com
+www.google.com##.NhRr3b.uquUgf
+www.google.com##.jleFbf
+www.google.com##.Tg0Ujf
+www.google.com##.Wt5Tfe > .xKf9F.KFFQ0c
+
+
+
+! 2021-08-01 https://unacademy.com
+unacademy.com##.dGNdok
+unacademy.com##.bnEknS
+unacademy.com##.bgigwi
+
+! 2021-08-01 https://www.youtube.com
+||www.youtube.com/live_chat$subdocument
+www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title
+www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-default.ytd-button-renderer.style-scope
+www.youtube.com###end > .ytd-masthead.style-scope
+www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
+
+! 2021-08-01 https://www.toppr.com
+www.toppr.com##.Button_shadow__3cGDt.Button_green-default__cOdSW.Button_button__3afDT.LoginSignUp_signUpBtn__3RdCZ.LoginSignUp_btn__suPle
+
+! 2021-08-02 https://www.youtube.com
+www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope.container.yt-simple-endpoint:has-text(Unacademy)
+
+! 2021-08-03 https://lifehacker.com
+lifehacker.com##.fpPzXA.ynugv2-2
+
+! 2021-08-03 https://player.uacdn.net
+player.uacdn.net##div.laFEsB.SettingsPanelOption__OptionWrapper-sc-1wqbpkd-0:nth-of-type(7)
+
+! 2021-08-03 https://www.google.com
+www.google.com##.LHJvCe
+www.google.com##.dobdf.x8XFTb.nPDigc > .wrSo4.oBa0Fe
+
+! 2021-08-03 https://player.uacdn.net
+player.uacdn.net##.MPfQg.PostClassFeedback__TextWrapper-r8jlcq-4
+
+! 2021-08-03 https://www.quora.com
+www.quora.com##.q-box > div > div > div > .qu-borderBottom.qu-pb--medium.q-box > .qu-pt--medium.q-box > .q-box > div > .qu-zIndex--action_bar.q-box > .qu-py--tiny.qu-flexWrap--nowrap.qu-alignItems--center.qu-justifyContent--space-between.q-flex > div.qu-alignItems--center.q-flex > .qu-display--inline-block.q-box > .q-relative
+www.quora.com##.q-box > div > div > div > .qu-borderBottom.qu-pb--medium.q-box > .qu-pt--medium.q-box > .q-box > div > .qu-zIndex--action_bar.q-box > .qu-py--tiny.qu-flexWrap--nowrap.qu-alignItems--center.qu-justifyContent--space-between.q-flex > div.qu-alignItems--center.q-flex > div.qu-mr--small.q-box > .qu-display--inline-block.q-box > .q-relative > .qu-hover--textDecoration--none.qu-hover--bg--darken.qu-cursor--pointer.qu-textAlign--center.qu-tapHighlight--white.qu-display--inline-flex.qu-userSelect--none.qu-whiteSpace--nowrap.qu-justifyContent--center.qu-alignItems--center.qu-borderRadius--pill.qu-active--textDecoration--none.qu-active--bg--darken.laIUvT.base___StyledClickWrapper-lx6eke-1.bARCkM.ClickWrapper___StyledClickWrapperBox-zoqi4f-0.q-click-wrapper
+
+
+
+! 2021-08-03 https://unsplash.com                                         ADS
+unsplash.com##._3FWCU._2obdA
+
+! 2021-08-04 https://www.google.com
+www.google.com##.aciXEb.wrSo4.oBa0Fe
+www.google.com##.oIk2Cb > .xKf9F.KFFQ0c
+
+! IMPORTANT REMOVES UNACADEMY LOGO
+player.uacdn.net##div:nth-of-type(7)
+
+! 2021-08-04 https://player.uacdn.net
+player.uacdn.net##.gGctAk.H3-scgoyy-0
+
+! 2021-08-04 https://www.amazon.in                                     REMOVED SPONSERED ADS AND SPONSERED ARTICLES EG.91MOBILES
+||d5glw3nnbe3pc.cloudfront.net/transcode/storyTeller/ASPK1XI08WXG2/1626523169790/e34e8f4b-13e0-4b19-bf86-7f355709e90d/1626523948722sbv.mp4$media
+||d5glw3nnbe3pc.cloudfront.net/transcode/storyTeller/A3VF3SRS21P5LD/1624965390060/ae3d3da7-8b94-4368-a9a9-60811c7b5305/1624965488526sbv.mp4$media
+||d5glw3nnbe3pc.cloudfront.net/transcode/storyTeller/A*/162*/162*sbv.mp4$media
+www.amazon.in##.sbv-video-single-product.rush-component > .s-border-bottom.s-include-content-margin
+www.amazon.in##div.sg-col-12-of-16.sg-col.s-widget.sg-col-16-of-20.sg-col-0-of-12.s-result-item > .sg-col-inner
+www.amazon.in##div.sg-col-12-of-16.sg-col.s-widget.sg-col-16-of-20.sg-col-0-of-12.s-result-item:nth-of-type(8)
+
+! 2021-08-05 https://www.google.com                                       blocks google maps places nearby
+google.com###rso > div.ULSxyf:nth-child(4) > div:last-child > div > div.AEprdc > div.xERobd:last-child
+
+! 2021-08-05 https://www.google.com
+www.google.com##.xERobd
+
+! 2021-08-08 https://en.savefrom.net
+en.savefrom.net##.terms__string
+en.savefrom.net##.main-form__wrapper
+
+! 2021-08-08 https://www.amazon.in
+www.amazon.in###a-autoid-0 > .a-button-inner > .a-button-text
+
+! 2021-08-09 https://www.google.com
+www.google.com##.erkvQe > li.sbct:has-text(/instagram|wwwe|covid|facebook|sex|breast|twitter|fandom|horoscope|movie|future retail/)
+
+! 2021-08-09 https://unsplash.com
+unsplash.com##._2taeX > div
+unsplash.com##._2rdbO
+unsplash.com##._1-fhO._1iSAa._1EJJ-.hhSId._19rc8._3RHj_.xLon9._1WPby._3d86A._3jtP1._1nvjo._2ZC8C
+unsplash.com##._1-fhO._3jNQs._3dBbn.hhSId._19rc8._3RHj_.xLon9._1WPby._3d86A._3jtP1._1nvjo._2ZC8C
+unsplash.com##.WcYKB._2obdA
+
+! 2021-08-09 https://www.livemint.com
+||images.livemint.com/static/icon-sprite.svg$image
+www.livemint.com##.close-btn.sticky2.btnClose
+www.livemint.com##div.trendingSimilarHeight
+www.livemint.com###box_1564334407925 > .adHeight280
+www.livemint.com##.headerIcon > .fr
+
+! 2021-08-09 https://www.pcgamebenchmark.com
+www.pcgamebenchmark.com##.product-cards > .row
+www.pcgamebenchmark.com##.product-cards > h3
+||www.pcgamebenchmark.com/img/product$image
+www.pcgamebenchmark.com###details-reviews
+www.pcgamebenchmark.com##h2:nth-of-type(3)
+www.pcgamebenchmark.com##p:nth-of-type(4)
+
+! 2021-08-10 https://unacademy.com
+unacademy.com##.cYQzgB.Carousel__CarouselWrapper-sc-1owlrrs-3
+unacademy.com##div.ckIYqb.Carousel__CaraouselInfo-sc-1owlrrs-6:has-text(Plus Courses)
+
+! 2021-08-14 https://physicswallah.live
+physicswallah.live##app-batch-tab.ion-page > .hydrated.header-md.md.ion-hide-lg-down.desktop-header > .hydrated.md > app-webnav > .hydrated.md.sc-ion-buttons-md-s.sc-ion-buttons-md-h.ion-hide-lg-down.mr-cstm
+physicswallah.live##.batches-section > ion-row.hydrated.md > ion-col.hydrated.md:has-text(Arjuna )
+
+! 2021-08-15 https://www.youtube.com
+www.youtube.com##.ytp-endscreen-content
+
+! 2021-08-16 https://www.google.com
+www.google.com##.BIB1wf.tvh9oe > .Y6heUd > .nIWXKc > .OUZ5W > .zjoqD > .fDqwl
+
+! 2021-08-17 https://www.onlinetestseries.in
+||s3-ap-southeast-1.amazonaws.com/olts-static-content/assets/data/images/allen_new/allen-img/whatsaap-icon.png$image
+
+! 2021-08-17 https://learn.aakashitutor.com
+learn.aakashitutor.com###section_text_wrapper
+
+! 2021-08-18 https://learn.aakashitutor.com
+learn.aakashitutor.com##fieldset
+
+! 2021-08-19 https://physicswallah.live
+physicswallah.live##.vjs-watermark-fade-in.vjs-watermark-top-right.vjs-watermark-content
+
+! 2021-08-24 https://player.uacdn.net
+player.uacdn.net##div:nth-of-type(5)
+
+! 2021-08-25 https://www.croxyproxy.rocks
+www.croxyproxy.rocks###zapperSquare
+
+! 2021-08-30 https://physicswallah.live
+physicswallah.live##.hydrated.ion-focusable.ion-activatable.button-clear.button.md.br-cstm > ion-badge.hydrated.md
+
+! 2021-08-30 https://www.google.com
+www.google.com###eob_18 > .AUiS2
+
+! 2021-08-30 https://player.uacdn.net
+player.uacdn.net##.dWaXJc.LearnerDetailsOnCanvas__LearnerDetailsContainer-sc-11ngyab-0
+player.uacdn.net##span.cNcgQa.LearnerDetailsOnCanvas__LearnerDetail-sc-11ngyab-1
+
+! 2021-08-30 https://www.google.com
+www.google.com###eob_15
+
+! 2021-08-31 https://stackoverflow.com
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2021-08-31 https://www.quora.com
+www.quora.com##.q-box > div > div > div > .qu-borderBottom.qu-pb--medium.q-box > .qu-pt--medium.q-box:has-text(/Founder- MBBSInfo|Co-founder(Get My University)|Student of MBBS at Crimea State Medical University Named After S. I. Georgievsky|I have successfully placed more than 350 students for MBBS in India and abroad|Ask me about best universities & Colleges in India/Abroad|MBBS Abroad Advisor|956 020 1110|Placed Students in QS-World TOP 20 Universities|91 8810227156|91-9999-40-43-48|7687946059|Counseller and BD at Book My University|Educational Counsellor at Rhein Konsultant|Educational Counselor at Bookmyuniversity|9699 36 03 70|917289 8282 59|Senior Counsellor at Mycareerpathshala/)
+www.quora.com##.q-box > .q-box > div > div > div > div > .qu-borderBottom.qu-pb--medium.q-box:has-text(/Founder- MBBSInfo|Co-founder(Get My University)|Student of MBBS at Crimea State Medical University Named After S. I. Georgievsky|I have successfully placed more than 350 students for MBBS in India and abroad|Ask me about best universities & Colleges in India/Abroad|MBBS Abroad Advisor|956 020 1110|Placed Students in QS-World TOP 20 Universities|91 8810227156|91-9999-40-43-48|7687946059|Counseller and BD at Book My University|Educational Counsellor at Rhein Konsultant|Educational Counselor at Bookmyuniversity|9699 36 03 70|917289 8282 59|Senior Counsellor at Mycareerpathshala/)
+
+! 2021-09-01 https://www.google.com
+www.google.com##div.F9rcV:has-text(/Postpone|postpone|Tamil Nadu|TN govt/)
+www.google.com##.DyOREb:has-text(/postpone|Postpone|Tamil Nadu|TN govt/)
+
+! 2021-09-02 https://www.google.com
+www.google.com###rso > div.g > div:has-text(MaSTAR Media)
+
+! 2021-09-02 https://www.quora.com
+www.quora.com##.qu-hover--textDecoration--none.qu-cursor--pointer.qu-textAlign--center.qu-tapHighlight--white.qu-bg--red.qu-display--inline-flex.qu-userSelect--none.qu-whiteSpace--nowrap.qu-justifyContent--center.qu-alignItems--center.qu-borderRadius--pill.qu-ml--medium.jkZGEm.base___StyledClickWrapper-lx6eke-1.bARCkM.ClickWrapper___StyledClickWrapperBox-zoqi4f-0.qu-focus--textDecoration--none.qu-active--textDecoration--none.q-click-wrapper
+
+! 2021-09-02 https://www.google.com
+www.google.com###rso > div.g:has-text(/rus education|Rus Education/)
+
+! 2021-09-03 https://www.google.com
+www.google.com###eob_17
+
+! 2021-09-04 https://mixkit.co
+mixkit.co##.elements-toast-banner__wrapper
+
+! 2021-09-04 https://www.quora.com
+www.quora.com##.qu-hover--bg--darken.qu-pb--medium.qu-pt--medium.q-box:has-text(Unlock this answer and support creators like)
+www.quora.com##.qu-borderBottom.qu-pb--medium.q-box:has-text(Unlock this answer and support creators like)
+www.quora.com##.qu-borderBottom.qu-pb--medium.q-box:has-text(Unlock this answer and support Spaces like)
+www.quora.com##div.cXjXFI.CssComponent-sc-1oskqb9-0 > .q-box > .q-box > div:has-text(Unlock this answer and support creators like)
+
+! 2021-09-06 https://www.google.com
+www.google.com###rso > div:has-text(/xozilla|spankbang|redwap|umshot|pornhub|haturbate|facial|redwap|kompoz|xvideos|anybunny|beeg|daftsex|camwhore|xnxx|sextvx|goporn|biguz|girlcum|brazzers|cum4k|passion-hd|passionhd|pornve|ok.xxx|xhamster|gotporn|tnaflix|xcafe|bigfuck.tv|tube8|pornhd|anyporn|onlyfans|Onlyfans|.xxx|redtube|XVIDEO|nympho.com|Xvideo|horezeedipaif|pornoreino|bellesa|livejasmin|chaturbate|sxyprn|txxx|pornpics|clips4sale|pornoxo|camsoda|ftvgirls|flyflv|eporner|playvids.com|foxtube.com|pornogo|sexhd|lordofporn|allsextube.com|hdsex.org|pussyspace|megatube.xxx|tiny4k|noodlemagazine/)
+
+! 2021-09-07 https://www.google.com
+www.google.com##div.BUooTd:has-text(/xozilla|spankbang|redwap|umshot|pornhub|haturbate|facial|redwap|kompoz|xvideos|anybunny|beeg|daftsex|camwhore|xnxx|sextvx|goporn|biguz|girlcum|brazzers|cum4k|passion-hd|passionhd|pornve|ok.xxx|xhamster|gotporn|tnaflix|xcafe|bigfuck.tv|tube8|pornhd|anyporn|onlyfans|Onlyfans|.xxx|redtube|XVIDEO|nympho.com|Xvideo|horezeedipaif|pornoreino|bellesa|livejasmin|chaturbate|sxyprn|txxx|pornpics|clips4sale|pornoxo|camsoda|ftvgirls|flyflv|eporner|playvids.com|foxtube.com|pornogo|sexhd|lordofporn|allsextube.com|hdsex.org|pussyspace|megatube.xxx|tiny4k|noodlemagazine/)
+
+! 2021-09-07 https://physicswallah.live
+physicswallah.live##.can-go-back.ion-page > .hydrated.header-collapse-none.header-md.md.desktop-header > .hydrated.md.in-toolbar > app-webnav > .hydrated.md.sc-ion-buttons-md-s.sc-ion-buttons-md-h.ion-hide-lg-down.mr-cstm
+
+! 2021-09-07 https://www.google.com
+www.google.com##.KZR0he:has-text(Rahul Gandhi)
+
+! 2021-09-07 https://itstillworks.com
+itstillworks.com##.header-wrapper > .logo > .text > .blinker
+
+! 2021-09-07 https://www.google.com
+www.google.com##.pdswFd
+
+! 2021-09-08 https://www.google.com
+www.google.com##.dbsr:has-text(/congress|Congress/)
+
+! 2021-09-08 https://www.reddit.com
+www.reddit.com##._2GTMVdV2t3ka_zfkVHHo95
+
+! 2021-09-10 https://indianexpress.com
+indianexpress.com##.custom_read_button
+
+! 2021-09-10 https://www.collegedekho.com
+www.collegedekho.com###chatButton
+
+! 2021-09-10 https://truescarystories.quora.com                                      sponsered content in spaces
+quora.com##span > .q-box > div > div > .qu-pt--medium.q-box
+
+! 2021-09-10 https://www.reddit.com
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn > ._1G4yU68P50vRZ4USXfaceV
+
+! 2021-09-10 https://www.india.com
+www.india.com##.articleBody span
+www.india.com##footer
+
+! 2021-09-18 https://www.quora.com
+www.quora.com##.q-box > div > div > div > .qu-borderBottom.qu-pb--medium.q-box > .qu-pb--medium.qu-pt--medium.q-box:has-text(Start free trial)
+
+
+||i.ytimg.com/vi_webp/hYps-C2Pwro/maxresdefault.webp$image
+www.youtube.com##.ytp-ce-element-show
+
+! 2021-09-29 https://www.google.com
+www.google.com##.gb_Ed.gb_Sa.gb_Qd
+www.google.com###ow23 > div
+
+! 2021-10-01 https://www.duolingo.com
+www.duolingo.com##._1vljO._3o_lc
+
+! 2021-10-03 https://www.duolingo.com
+www.duolingo.com##._356_x
+
+! 2021-10-03 https://forum.duolingo.com
+forum.duolingo.com##._287pv
+
+! 2021-10-03 https://www.keybr.com    change colour  0000000000     0000000000     0000000         0000000000         00000000000       0000000000       0000000000        0000000000
+www.keyr.com##*:style(color:white !important; background-color:grey !important;)
+
+! 2021-10-03 https://www.youtube.com subscribe button
+www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-destructive.ytd-button-renderer.style-scope:style(color:white !important; background-color:#212121 !important;)
+
+! 2021-10-03 https://forum.duolingo.com
+forum.duolingo.com##._2mNT6
+forum.duolingo.com##.QHkFc._2NzLI._1O1Bz.UtiUo
+forum.duolingo.com##span.Xm7B- > .tCqcy.uFNEM
+
+! 2021-10-03 https://fitgirl-repacks.site
+fitgirl-repacks.site###custom_html-5
+fitgirl-repacks.site###custom_html-2
+
+
+! 2021-10-03 https://www.keybr.com
+www.keybr.com##.Body-container:style(color:white !important; background-color:#757575 !important;)
+www.keybr.com##.Body-header:style(color:white !important; background-color:#757575 !important;)
+www.keybr.com##.Body-footer:style(color:white !important; background-color:black !important;)
+www.keybr.com##.TextInput-fragment:style(color:black !important;)
+www.keybr.com##.Practice-errors.IndicatorRow-gauge > .IndicatorRow-gaugeValue > .ValueDelta--more.ValueDelta:style(color:#fdd835 !important;)
+www.keybr.com##.Practice-score.IndicatorRow-gauge > .IndicatorRow-gaugeValue > .ValueDelta--more.ValueDelta:style(color:black !important;)
+www.keybr.com##.ValueDelta--less.ValueDelta:style(color:white !important;)
+www.keybr.com##.Practice-speed.IndicatorRow-gauge > .IndicatorRow-gaugeValue > .ValueDelta--more.ValueDelta:style(color:#26c6da !important;)
+
+
+
+! 2021-10-05 https://www.youtube.com
+www.youtube.com##a.yt-formatted-string.style-scope.yt-simple-endpoint:style(color:grey !important;)
+www.youtube.com###more-replies > .ytd-button-renderer.style-scope.yt-simple-endpoint > .ytd-button-renderer.style-scope:style(color:grey !important;)
+www.youtube.com###voice-search-button
+www.youtube.com###logo
+www.youtube.com##a.yt-formatted-string.style-scope.yt-simple-endpoint:style(pointer-events:none!important)
+www.youtube.com##.ytd-video-primary-info-renderer.style-scope > .ytd-menu-renderer.style-scope.top-level-buttons:style(pointer-events:none!important)
+www.youtube.com##.ytd-video-primary-info-renderer.style-scope > .ytd-menu-renderer.style-scope.dropdown-trigger
+www.youtube.com###toolbar:style(pointer-events:none!important)
+www.youtube.com###header-author:style(pointer-events:none!important)
+! 2021-10-09 https://www.youtube.com
+www.youtube.com###less-replies > .ytd-button-renderer.style-scope.yt-simple-endpoint > .ytd-button-renderer.style-scope:style(color:grey !important;)
+
+
+
+
+
+
+
+
+! 2021-10-05 make a link unclickable                             example.com##a[href]:style(pointer-events:none!important)
+! 2021-10-05  "Strict-block" navigation to /external/link                  ||example.com/external/link$doc
+! 2021-10-05 colour dark grey is #212121
+! 2021-10-05   dotted orange border                                      :style(border: 5px dotted orange !important)
+! 2021-10-05
+! 2021-10-05
+! 2021-10-05
+! 2021-10-05
+! 2021-10-05
+! 2021-10-05
+
+! 2021-10-05 https://www.google.com
+www.google.com###eob_32
+
+! 2021-10-05 https://forum.duolingo.com
+forum.duolingo.com##._3CW8A:style(pointer-events:none!important)
+
+! 2021-10-06 https://9anime.id
+9anime.id##.guest
+9anime.id###comment
+9anime.id##.sidebar
+||s2.bunnycdn.ru/assets/9anime/images/footer-icon.png$image
+9anime.id##.container > .socials
+
+! 2021-10-07 https://9anime.id
+9anime.id##.alert
+
+! 2021-10-08 https://readmanganato.com
+readmanganato.com##.panel-topview
+
+! 2021-10-11 https://9anime.id
+9anime.id##.report
+
+! 2021-10-18 https://www.quora.com
+www.quora.com###mainContent > div > div.q-box > div > div > .qu-borderBottom.qu-pb--medium.q-box:has-text(Unlock this answer and browse ad)
+www.quora.com##div.q-box > div > div > div  div.qu-alignItems--center.q-flex > .kBNxNb.PopoverMenu___StyledInlineFlex-sc-11ubalt-0.qu-alignItems--flex-end.q-inlineFlex > div > .q-relative > .qu-hover--textDecoration--none.qu-hover--bg--darken.qu-cursor--pointer.qu-textAlign--center.qu-tapHighlight--white.qu-display--inline-flex.qu-userSelect--none.qu-whiteSpace--nowrap.qu-justifyContent--center.qu-alignItems--center.qu-borderRadius--pill.qu-active--textDecoration--none.qu-active--bg--darken.laIUvT.base___StyledClickWrapper-lx6eke-1.bIwtPb.ClickWrapper___StyledClickWrapperBox-zoqi4f-0.q-click-wrapper
+
+! 2021-10-23 https://readmanganato.com
+readmanganato.com###top
+
+! 2021-10-25 https://vk.com
+vk.com##.eltt_vis.eltt_right.eltt_align_center.eltt_arrow_size_normal.feature_info_tooltip.feature_intro_blue_tt--heightSmall.feature_intro_blue_tt.feature_intro_tt.eltt
+vk.com##.side_bar_inner
+vk.com##.button_wide.flat_button
+vk.com##.FCThumb__link
+vk.com##.FCPanel__add
+vk.com##.FCPanel__list
+vk.com##.FCPanel__widthToggleIcon
+vk.com##.fixed.reply_box_inner_wrap
+vk.com##.reply_link
+vk.com###reply_box_wrap-69777695_34217 > .reply_box_inner_wrap
+vk.com##.post_actions
+vk.com##._like.like.like_btn:style(pointer-events:none!important)
+vk.com###reply_box_wrap-69777695_34212 > .reply_box_inner_wrap
+vk.com##._like_wall-69777695_34169.like_wrap > .PostBottomActionLikeBtns--withBgButtons.PostBottomActionLikeBtns.like_cont:style(pointer-events:none!important)
+
+! 2021-10-25 https://www.goodreads.com
+www.goodreads.com###friendReviews
+www.goodreads.com##.mediumText.communityQASignedOutMessage
+www.goodreads.com##.wtrRating.ratingStars
+
+! 2021-10-25 https://vk.com
+vk.com###page_block_submit_post > ._submit_post_box.clear_fix.submit_post_box
+vk.com##.PostHeaderActionsUiActionMenuIcon > .PostHeaderActionsButtonMoreIcon > svg
+
+! 2021-10-26 https://vk.com
+vk.com##.clear_fix.wl_post_actions_wrap:style(pointer-events:none!important)
+vk.com##._like_wall-69777695_34125.like_wrap:style(pointer-events:none!important)
+vk.com##._module.people_module.clear.module
+vk.com##.TopNavBtn__notify.TopNavBtn.top_notify_btn
+
+! 2021-10-27 https://www.goodreads.com
+www.goodreads.com##.u-bottomGrayBorder
+www.goodreads.com##.darkGreyText.uitext
+www.goodreads.com##.ctaBannerShown
+www.goodreads.com##.ctaBannerTriangle
+
+
+! 2021-10-27 https://vk.com  00000000           0000000000              00000000000                 00000000000000     0000000000          000000000000  
+vk.com###page_layout > .fl_r:style(width: 1100px!important;font-size:15px!important;)
+
+! 2021-10-27 https://www.youtube.com
+www.youtube.com###primary > .ytd-watch-flexy.style-scope:style(width:928px!important)
+
+! 2021-10-27 https://vk.com
+vk.com###stl_bg:style(width:22px!important)
+vk.com###stl_left:style(width:22px!important;)
+
+
+! 2021-10-28 https://www.youtube.com
+www.youtube.com##.ytd-live-chat-frame.style-scope > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint > .ytd-toggle-button-renderer.style-scope
+
+! 2021-10-28 https://css-tricks.com
+css-tricks.com##.fem-sidebar-ad.fem-ad
+
+! 2021-10-28 https://www.goodreads.com
+www.goodrreads.com##.mainContentFloat:style(flex-wrap: nowrap!important)
+www.goodrrads.com##.rightContainer:style(width: 24%!important;)
+
+! 2021-11-04 https://www.duolingo.com
+www.duolingo.com##.np6Tv._1ii1y
+www.duolingo.com##._1fPTS._3KmBl
+
+! 2021-11-05 https://www.goodreads.com
+www.goodreads.com##.gcaLeftContainer:style(color:white !important; background-color:black !important;)
+www.goodreads.com##.gcaRightContainer:style(color:white !important; background-color:black !important;)
+||s.gr-assets.com/assets/award/historical/desktop/category-background.jpg$image
+www.goodreads.com##.mainContent:style(width: 100%!important;)
+www.goodreads.com##.mainContentFloat:style(width: 100%!important;)
+www.goodreads.com##.leftContainer:style(width: 940px!important;)
+www.goodreads.com##.bodycol.left:style(width: 90%!important;)
+www.goodreads.com##.section:style(border-style:solid;border-color:#282825)
+www.goodreads.com##.reviewCta
+www.goodreads.com###topcol > .col.last:style(width: 640px!important;)
+www.goodreads.com##.gcaRightContainer:style(width: 84%!important;)
+www.goodreads.com##.gcaLeftContainer:style(width: 16%!important;)
+www.goodreads.com##.js-dataTooltip.js-lazyGlideContainer.gcaBody:style(width: 100%!important;)
+
+! 2021-11-09 https://www.youtube.com
+www.youtube.com##.ytd-video-primary-info-renderer.style-scope.yt-simple-endpoint
+
+! 2021-11-09 https://unsplash.com
+unsplash.com##.lSBnl.sFp9s.aOKtF
